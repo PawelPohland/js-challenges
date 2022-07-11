@@ -1,3 +1,5 @@
+"use strict";
+
 // Create function countVovels that will count
 // all the vovels in a given input string.
 
